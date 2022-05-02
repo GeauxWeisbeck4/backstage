@@ -1,5 +1,22 @@
 # @backstage/create-app
 
+## 0.4.27-next.1
+
+### Patch Changes
+
+- 7b253072c6: Tweaked template to provide an example and guidance for how to configure sign-in in `packages/backend/src/plugins/auth.ts`. There is no need to add this to existing apps, but for more information about sign-in configuration, see https://backstage.io/docs/auth/identity-resolver.
+- d41f19ca2a: Bumped the `typescript` version in the template to `~4.6.4`.
+
+  To apply this change to an existing app, make the following change to the root `package.json`:
+
+  ```diff
+     dependencies: {
+       ...
+  -    "typescript": "~4.5.4"
+  +    "typescript": "~4.6.4"
+     },
+  ```
+
 ## 0.4.27-next.0
 
 ### Patch Changes

@@ -1,5 +1,13 @@
 # @backstage/plugin-auth-backend
 
+## 0.13.1-next.1
+
+### Patch Changes
+
+- cac3ba68a2: Fixed a bug that was introduced in `0.13.1-next.0` which caused the `ent` claim of issued tokens to be dropped.
+- Updated dependencies
+  - @backstage/backend-common@0.13.3-next.1
+
 ## 0.13.1-next.0
 
 ### Patch Changes
