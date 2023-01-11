@@ -38,7 +38,7 @@
     "@backstage/cli": "^0.17.1-next.0",
     "@backstage/config": "^1.0.0",
     "better-sqlite3": "^7.5.0",
-    "knex": "^1.0.2",
+    "knex": "^2.4.0",
     "msw": "^0.35.0",
     "mysql2": "^2.2.5",
     "pg": "^8.3.0",
