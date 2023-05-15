@@ -6271,9 +6271,9 @@
   integrity sha512-ewFXqrQHlFsgc09MK5jP5iR7vumV/BYayNC6PgJO2LPe8vrnNFyjQjSppfEngITi0qvfKtzFvgKymGheFM9UOA==
 
 "@types/react-dom@*", "@types/react-dom@<18.0.0", "@types/react-dom@^17":
-  version "17.0.16"
-  resolved "https://registry.npmjs.org/@types/react-dom/-/react-dom-17.0.16.tgz#7caba93cf2806c51e64d620d8dff4bae57e06cc4"
-  integrity sha512-DWcXf8EbMrO/gWnQU7Z88Ws/p16qxGpPyjTKTpmBSFKeE+HveVubqGO1CVK7FrwlWD5MuOcvh8gtd0/XO38NdQ==
+  version "17.0.20"
+  resolved "https://registry.npmjs.org/@types/react-dom/-/react-dom-17.0.20.tgz#e0c8901469d732b36d8473b40b679ad899da1b53"
+  integrity sha512-4pzIjSxDueZZ90F52mU3aPoogkHIoSIDG+oQ+wQK7Cy2B9S+MvOqY0uEA/qawKz381qrEDkvpwyt8Bm31I8sbA==
   dependencies:
     "@types/react" "^17"
 
@@ -24758,9 +24758,9 @@ vm-browserify@^1.0.1:
   integrity sha512-2ham8XPWTONajOR0ohOKOHXkm3+gaBmGut3SRuu75xLd/RRaY6vqgh8NBYYk7+RW3u5AtzPQZG8F10LHkl0lAQ==
 
 vm2@^3.9.6:
-  version "3.9.9"
-  resolved "https://registry.npmjs.org/vm2/-/vm2-3.9.9.tgz#c0507bc5fbb99388fad837d228badaaeb499ddc5"
-  integrity sha512-xwTm7NLh/uOjARRBs8/95H0e8fT3Ukw5D/JJWhxMbhKzNh1Nu981jQKvkep9iKYNxzlVrdzD0mlBGkDKZWprlw==
+  version "3.9.18"
+  resolved "https://registry.npmjs.org/vm2/-/vm2-3.9.18.tgz#d919848bee191a0410c5cc1c5aac58adfd03ce9a"
+  integrity sha512-iM7PchOElv6Uv6Q+0Hq7dcgDtWWT6SizYqVcvol+1WQc+E9HlgTCnPozbQNSP3yDV9oXHQOEQu530w2q/BCVZg==
   dependencies:
     acorn "^8.7.0"
     acorn-walk "^8.2.0"
